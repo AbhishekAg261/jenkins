@@ -5,5 +5,6 @@ public class main {
 		System.out.println("Hello world");
 		System.out.println("Hello from jenkins");
 		System.out.println("Hello from jenkins again");
+		System.out.println("Hello from automatic build");
 	}
 }
